@@ -16,7 +16,7 @@ namespace Project.Engine
             gameObject.Init();
         }
 
-        public static async void Pipeline()
+        public static void Pipeline()
         {
             while (_isActive)
             {

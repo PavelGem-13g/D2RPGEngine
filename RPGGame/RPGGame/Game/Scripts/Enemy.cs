@@ -2,11 +2,6 @@ namespace Project.Engine;
 
 public class Enemy : GameObject
 {
-    public override void Init()
-    {
-        base.Init();
-    }
-
     public override void Update()
     {
         base.Update();

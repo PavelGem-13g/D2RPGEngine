@@ -13,10 +13,3 @@
 /Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.pdb
 /Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.genruntimeconfig.cache
 /Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/ref/RPGGame.dll
-/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/NAudio.dll
-/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/NAudio.Asio.dll
-/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/NAudio.Core.dll
-/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/NAudio.Midi.dll
-/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/NAudio.Wasapi.dll
-/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/NAudio.WinMM.dll
-/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.csproj.CopyComplete

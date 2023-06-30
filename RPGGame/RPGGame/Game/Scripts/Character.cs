@@ -2,11 +2,6 @@ namespace Project.Engine
 {
     public class Character : GameObject
     {
-        public override void Init()
-        {
-            base.Init();
-        }
-
         public override void Update()
         {
             Console.WriteLine("Go forward - w, back - s, left - a, right - d");
