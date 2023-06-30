@@ -1,0 +1,15 @@
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.csproj.AssemblyReference.cache
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.AssemblyInfoInputs.cache
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.AssemblyInfo.cs
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.csproj.CoreCompileInputs.cache
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/RPGGame
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.deps.json
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.runtimeconfig.json
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.dll
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.pdb
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.dll
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/refint/RPGGame.dll
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.pdb
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.genruntimeconfig.cache
+/Users/pavel/Git/D2RPGEngine/RPGGame/RPGGame/obj/Debug/net7.0/ref/RPGGame.dll
