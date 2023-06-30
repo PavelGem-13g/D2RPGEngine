@@ -1,4 +1,6 @@
 using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
 using Avalonia.Controls;
 using Project.Engine.EventSystem;
 
@@ -21,20 +23,26 @@ namespace Project.Engine
             gameObject.Init();
         }
 
-        public static void Pipeline()
+        public static async void Pipeline()
         {
-            foreach (var gameObject in _gameObjects)
-            {
-                gameObject.Update();
-            }
+            await Task.Run(() =>
+                {
+                    while (true)
+                    {
+                        foreach (var gameObject in _gameObjects)
+                        {
+                            gameObject.Update();
+                        }
 
-            foreach (var gameObject in _gameObjects)
-            {
-                gameObject.Render();
-            }
-            Pipeline();
+                        foreach (var gameObject in _gameObjects)
+                        {
+                            gameObject.Render();
+                        }
+
+                        Thread.Sleep(100);   
+                    }
+                }
+            );
         }
-        
-        
     }        
 }
