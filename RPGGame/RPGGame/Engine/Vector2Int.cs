@@ -36,6 +36,11 @@ public class Vector2Int
     
     public static Vector2Int operator -(Vector2Int first, Vector2Int second)
     {
-        return new Vector2Int(first.X + second.X, first.Y + second.Y);
+        return new Vector2Int(first.X - second.X, first.Y - second.Y);
+    }
+
+    public string ToString()
+    {
+        return X + " " + Y;
     }
 }
