@@ -30,7 +30,6 @@ namespace Project.Engine
                     gameObject.Update();
                 }
                 Console.WriteLine();
-                Console.ReadKey();
             }
         }
 

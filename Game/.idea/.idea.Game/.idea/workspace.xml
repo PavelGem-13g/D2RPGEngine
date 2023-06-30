@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d8b2a11-e37f-41af-a787-bf7265450894" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/Engine/GameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/Engine/GameObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/Engine/GameSync.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/Engine/GameSync.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/Engine/Vector2Int.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/Engine/Vector2Int.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/Game/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/Game/Scripts/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/Game/Scripts/Chest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/Game/Scripts/Chest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/Game/Scripts/Scene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/Game/Scripts/Scene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/bin/Debug/net7.0/RPGGame.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGGame/RPGGame/obj/Debug/net7.0/RPGGame.csproj.CoreCompileInputs.cache" afterDir="false" />

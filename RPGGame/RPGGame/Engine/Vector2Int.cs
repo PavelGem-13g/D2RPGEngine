@@ -39,6 +39,11 @@ public class Vector2Int
         return new Vector2Int(first.X - second.X, first.Y - second.Y);
     }
 
+    public double Length
+    {
+        get => Math.Sqrt(X * X + Y * Y);
+    }
+
     public string ToString()
     {
         return X + " " + Y;

@@ -7,9 +7,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Scene scene = new Scene();
-            scene.Init();
-            scene.Pipeline();
+            Console.WriteLine("Press Enter to continue");
+            while (Console.ReadKey().Key==ConsoleKey.Enter)
+            {
+                Scene scene = new Scene();
+                scene.Init();
+                scene.Pipeline();  
+                Console.WriteLine("Press Enter to continue");
+            }
         }
     }
 }
