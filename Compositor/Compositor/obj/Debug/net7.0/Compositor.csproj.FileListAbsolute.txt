@@ -1,0 +1,15 @@
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/bin/Debug/net7.0/Compositor
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/bin/Debug/net7.0/Compositor.deps.json
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/bin/Debug/net7.0/Compositor.runtimeconfig.json
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/bin/Debug/net7.0/Compositor.dll
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/bin/Debug/net7.0/Compositor.pdb
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.csproj.AssemblyReference.cache
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.AssemblyInfoInputs.cache
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.AssemblyInfo.cs
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.csproj.CoreCompileInputs.cache
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.dll
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/refint/Compositor.dll
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.pdb
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/Compositor.genruntimeconfig.cache
+/Users/pavel/Git/D2RPGEngine/Compositor/Compositor/obj/Debug/net7.0/ref/Compositor.dll
