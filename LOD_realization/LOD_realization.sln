@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOD_realization.Windows", "LOD_realization.Windows\LOD_realization.Windows.csproj", "{3D8B7609-E5E9-4DC3-A866-2C1534AC917D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOD_realization", "LOD_realization\LOD_realization.csproj", "{47F0279E-54EC-4030-B76F-7F116F0B7655}"
+EndProject
+Global
+EndGlobal
